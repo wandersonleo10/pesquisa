@@ -88,3 +88,19 @@
        'Subflow Fwd Bytes', 'Subflow Bwd Bytes', 'FWD Init Win Bytes',
        'Bwd Init Win Bytes', 'Fwd Act Data Pkts', 'Fwd Seg Size Min',
        'Idle Mean', 'Idle Std', 'Idle Max', 'Idle Min', 'Label']
+
+
+mRMR 
+['Protocol', 'Subflow Fwd Packets', 'Fwd PSH Flags',
+       'FWD Init Win Bytes', 'FIN Flag Count', 'Bwd Init Win Bytes',
+       'Fwd Seg Size Min', 'Packet Length Max', 'Bwd Packet Length Std',
+       'Fwd Packet Length Max', 'Subflow Bwd Bytes', 'Subflow Fwd Bytes',
+       'Fwd Packets/s', 'Packet Length Mean', 'Down/Up Ratio',
+       'Packet Length Min', 'Fwd Segment Size Avg', 'Fwd Packet Length Mean',
+       'Fwd Packet Length Min', 'Packet Length Std', 'Bwd Header Length',
+       'Average Packet Size', 'Idle Max', 'Bwd Segment Size Avg',
+       'Bwd Packet Length Min', 'Total Length of Fwd Packet', 'Idle Mean',
+       'Idle Std', 'Bwd Bulk Rate Avg', 'Fwd IAT Mean', 'Fwd Act Data Pkts',
+       'Bwd Packets/s', 'RST Flag Count', 'Flow IAT Std', 'Flow IAT Max',
+       'Bwd IAT Mean', 'Bwd IAT Max', 'Bwd IAT Std', 'SYN Flag Count',
+       'Bwd Packet Length Max', 'Label']
